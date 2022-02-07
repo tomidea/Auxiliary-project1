@@ -11,3 +11,4 @@ This script would be able to do the following:
 - For each user’s SSH configuration, create an authorized_keys file and add the public key of your current user.
 
 
+#### check the Description folder for the solution
